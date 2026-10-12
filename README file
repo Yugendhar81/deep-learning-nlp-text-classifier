@@ -1,0 +1,29 @@
+# Deep Learning NLP Text Classifier
+
+## Objective
+Build a text classification model using deep learning and Natural Language Processing (NLP).
+
+## Technologies
+- Python
+- PyTorch
+- Natural Language Processing
+- Neural Networks
+
+## Features
+- Converts text into tokens.
+- Builds a vocabulary.
+- Converts words into numerical sequences.
+- Trains a neural network for sentiment classification.
+- Predicts positive or negative sentiment.
+
+## How to Run
+Install dependencies:
+
+`pip install -r requirements.txt`
+
+Run the program:
+
+`python nlp_classifier.py`
+
+## Conclusion
+This project demonstrates a basic NLP text classification pipeline using a PyTorch neural network.
